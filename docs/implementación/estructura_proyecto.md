@@ -39,6 +39,7 @@ taskflow/
 ## 2. Descripción de módulos
 
 ### Backend
+
 | Carpeta | Responsabilidad |
 |---------|-----------------|
 | `controllers/` | Gestión de peticiones HTTP |
@@ -48,6 +49,7 @@ taskflow/
 | `middlewares/` | Autenticación, validación, errores |
 
 ### Frontend
+
 | Carpeta | Responsabilidad |
 |---------|-----------------|
 | `components/` | Componentes reutilizables (botones, tarjetas, modales) |
@@ -96,4 +98,3 @@ Respuesta:
 | `npm run build` | Compila el proyecto |
 | `npm run test` | Ejecuta las pruebas |
 | `npm run lint` | Analiza el código con ESLint |
-

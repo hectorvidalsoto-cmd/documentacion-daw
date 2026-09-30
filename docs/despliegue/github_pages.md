@@ -122,4 +122,3 @@ Y configura en tu proveedor DNS un registro `CNAME` apuntando a `tu-usuario.gith
 | Página en blanco | `baseUrl` incorrecto | Ajustar al nombre del repo |
 | CSS no carga | Rutas absolutas | Revisar `trailingSlash` |
 | 404 en rutas | Falta `index.html` | Ejecutar `npm run build` |
-

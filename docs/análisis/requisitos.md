@@ -37,6 +37,7 @@ En esta sección se recogen los requisitos del sistema **TaskFlow**, clasificado
 ## 3. Casos de uso principales
 
 ### CU-01: Crear tarea
+
 - **Actor:** Usuario autenticado
 - **Precondición:** Sesión iniciada
 - **Flujo principal:**
@@ -46,6 +47,7 @@ En esta sección se recogen los requisitos del sistema **TaskFlow**, clasificado
   4. La tarea se guarda y aparece en el tablero.
 
 ### CU-02: Mover tarea
+
 - **Actor:** Usuario autenticado
 - **Flujo principal:**
   1. El usuario arrastra una tarjeta.
@@ -57,4 +59,3 @@ En esta sección se recogen los requisitos del sistema **TaskFlow**, clasificado
 - La aplicación debe funcionar en navegadores modernos (Chrome, Firefox, Edge, Safari).
 - El backend se desplegará en un entorno con Node.js 20 LTS.
 - El presupuesto de infraestructura mensual no debe superar los 50 €.
-

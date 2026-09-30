@@ -91,18 +91,23 @@ classDiagram
 ## 2. Descripción de las clases
 
 ### Usuario
+
 Representa a una persona registrada. Contiene credenciales y un rol que determina sus permisos.
 
 ### Tarea
+
 Unidad mínima de trabajo. Su ciclo de vida está controlado por el enum `Estado`.
 
 ### Tablero
+
 Agrupación visual de tareas tipo Kanban. Cada proyecto puede tener varios tableros.
 
 ### Proyecto
+
 Contenedor de nivel superior. Agrupa usuarios y tableros.
 
 ### Notificacion
+
 Mensajes generados ante eventos relevantes (asignaciones, cambios de estado).
 
 ## 3. Relaciones clave
@@ -120,4 +125,3 @@ Mensajes generados ante eventos relevantes (asignaciones, cambios de estado).
 | Observer | Notificaciones ante cambios de estado |
 | DTO | Transferencia de datos entre frontend y backend |
 | Factory | Creación de tareas según tipo (normal, recurrente) |
-

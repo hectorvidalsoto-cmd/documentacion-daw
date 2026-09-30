@@ -84,4 +84,3 @@ flowchart TD
 ## 8. Conclusiones
 
 El módulo analizado cumple con los umbrales definidos en el RNF-05. Se recomienda mantener la cobertura en futuras iteraciones mediante integración continua.
-
