@@ -2,6 +2,7 @@
 id: diagrama_clases
 title: Diagrama de Clases
 sidebar_label: Diagrama de Clases
+sidebar_position: 3
 ---
 
 # Diseño: Diagrama de Clases

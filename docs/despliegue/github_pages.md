@@ -2,6 +2,7 @@
 id: github_pages
 title: Despliegue en GitHub Pages
 sidebar_label: GitHub Pages
+sidebar_position: 6
 ---
 
 # Despliegue: GitHub Pages

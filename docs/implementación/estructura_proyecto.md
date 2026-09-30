@@ -2,6 +2,7 @@
 id: estructura_proyecto
 title: Estructura del Proyecto
 sidebar_label: Estructura del Proyecto
+sidebar_position: 4
 ---
 
 # Implementación: Estructura del Proyecto
