@@ -49,4 +49,4 @@ Esta documentación tiene como finalidad:
 
 ## Comenzar
 
-Para explorar la documentación, utiliza la barra lateral o comienza por la sección de [Requisitos](./análisis/requisitos).
+Para explorar la documentación, usa la barra lateral o comienza por la sección de [Requisitos](./análisis/requisitos).
